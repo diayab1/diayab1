@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @diaya carolle but can call me carolle
+- 👋 Hi, I’m Diaya carolle but can call me carolle
 - 👀 I’m interested in Sciences since my childhood
 - 🌱 I’m currently learning Data Analytics at Seattle Pacific University
 - 💞️ I’m looking to collaborate on scientific projects related to Data Analytics or Actuarial Sciences
